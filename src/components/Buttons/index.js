@@ -17,7 +17,7 @@ const Buttons = ({ buttons, type, disabled, message, onClick, className }) => (
             disabled={disabled}
             onClick={() => onClick(btn, message)}
           >
-            {btn.text}
+            {btn.text}123
           </Button>
         )
       })
