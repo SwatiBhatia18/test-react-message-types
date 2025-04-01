@@ -1,10 +1,10 @@
 {
-  "name": "react-message-types",
+  "name": "test-react-message-types",
   "version": "17.0.0",
   "description": "A package of message types components for chatbot and their dashoboard ",
   "author": "vivek vaibhav",
   "license": "MIT",
-  "repository": "vivek1623/react-message-types",
+  "repository": "https://github.com/SwatiBhatia18/test-react-message-types.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
