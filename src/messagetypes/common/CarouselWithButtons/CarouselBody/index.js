@@ -21,6 +21,7 @@ const CarouselBody = ({
 }) => {
   return (
     <div className={styles.carouselBodyContainer}>
+
       {(payload.title || payload.subtitle) && (
         <Suspense fallback={null}>
           <Header title={payload.title} subtitle={payload.subtitle} />
